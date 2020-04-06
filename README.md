@@ -6,3 +6,5 @@ Adding some content, before we publish the next release
 Another simple change
 
 Add another line
+
+This will be the definitive line
